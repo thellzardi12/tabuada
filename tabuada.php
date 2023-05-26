@@ -42,7 +42,7 @@
 
     <?php
     // Caminho da imagem
-    $caminhoImagem = 'tabuada.png';
+    $caminhoImagem = "tabuada.png";
     ?>
 
     <!-- Exibir a imagem -->
